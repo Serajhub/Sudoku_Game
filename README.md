@@ -1,5 +1,5 @@
 # Sudoku_Game
-he project will primarily use Java language for coding.
+The project will primarily use Java language for coding.
 Java Swing will also be used to build the GUI application.
 Java Swing is a part of JFC (Java Foundation Classes) which is used to create window-based applications.
 AWT (Abstract Windowing Toolkit) is the base for Java Swing.
